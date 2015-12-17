@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Marvellous Minutiae - It's the little things]]></title>
         <description><![CDATA[Marvellous Minutiae - It's the little things]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/marvellous-minutiae/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 20:49:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 20:49:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marvellous-minutiae/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/marvellous-minutiae/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">864d77a6-de81-4e40-b027-ba3508b68133</guid>
+            <pubDate>Thu, 17 Dec 2015 20:48:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to me</p>]]></description>
-            <link>undefinedbf87656c-7cf8-442a-9d30-c7a5215e3556/index.html</link>
+            <link>https://thegrid.ai/marvellous-minutiae/bf87656c-7cf8-442a-9d30-c7a5215e3556/index.html</link>
             <guid isPermaLink="false">bf87656c-7cf8-442a-9d30-c7a5215e3556</guid>
             <pubDate>Thu, 17 Dec 2015 20:48:58 GMT</pubDate>
         </item>
